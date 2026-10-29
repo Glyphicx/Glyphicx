@@ -1,16 +1,20 @@
-## Hi there 👋
+# Jesse Rancourt
 
-<!--
-**Glyphicx/Glyphicx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+First-year Computer Engineering student at the University of Victoria (UVic).  
+Focused on embedded systems, low-level software, and firmware.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Doing
+- **UVic Satellite Design (UVSD):** Writing firmware for the DOOMBalloon high-altitude balloon payload, targeting ARM Cortex-M microcontrollers.
+- **Systems Programming:** Building foundational skills in C, data structures, and microcontroller hardware.
+
+### Technical Focus
+- **Languages:** C, Python
+- **Hardware & Targets:** ARM Cortex-M (Nordic nRF5340, STM32)
+- **Buses & Interfaces:** SPI, I2C
+
+---
+
+### Contact & Links
+- [LinkedIn](https://www.linkedin.com/in/jesse-a-rancourt/)
